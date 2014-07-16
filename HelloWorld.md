@@ -1,7 +1,25 @@
-##This is my first markdown file - Hello, World!
+## This is a markdown file
 
-###This this my unordered list:
 
-*apples
-*oranges
-*bananas
+
+### This is a subheading for my list.
+
+
+
+* Apples
+
+* Oranges
+
+* Bananas
+ 
+
+
+This is plain text.
+
+
+
+[This is a hyperlink](http://www.google.com)
+
+
+
+The end
